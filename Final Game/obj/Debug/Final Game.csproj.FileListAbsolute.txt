@@ -1,0 +1,21 @@
+C:\Users\adrit\OneDrive\Documents\NTU\Software Eng\Rough work\Final Game\bin\Debug\Final Game.exe.config
+C:\Users\adrit\OneDrive\Documents\NTU\Software Eng\Rough work\Final Game\bin\Debug\Final Game.exe
+C:\Users\adrit\OneDrive\Documents\NTU\Software Eng\Rough work\Final Game\bin\Debug\Final Game.pdb
+C:\Users\adrit\OneDrive\Documents\NTU\Software Eng\Rough work\Final Game\obj\Debug\Final Game.csproj.AssemblyReference.cache
+C:\Users\adrit\OneDrive\Documents\NTU\Software Eng\Rough work\Final Game\obj\Debug\Final Game.csproj.CoreCompileInputs.cache
+C:\Users\adrit\OneDrive\Documents\NTU\Software Eng\Rough work\Final Game\obj\Debug\Final Game.exe
+C:\Users\adrit\OneDrive\Documents\NTU\Software Eng\Rough work\Final Game\obj\Debug\Final Game.pdb
+C:\Users\adrit\OneDrive\Documents\NTU\Software Eng\Final Game\bin\Debug\Final Game.exe.config
+C:\Users\adrit\OneDrive\Documents\NTU\Software Eng\Final Game\bin\Debug\Final Game.exe
+C:\Users\adrit\OneDrive\Documents\NTU\Software Eng\Final Game\bin\Debug\Final Game.pdb
+C:\Users\adrit\OneDrive\Documents\NTU\Software Eng\Final Game\obj\Debug\Final Game.csproj.AssemblyReference.cache
+C:\Users\adrit\OneDrive\Documents\NTU\Software Eng\Final Game\obj\Debug\Final Game.csproj.CoreCompileInputs.cache
+C:\Users\adrit\OneDrive\Documents\NTU\Software Eng\Final Game\obj\Debug\Final Game.exe
+C:\Users\adrit\OneDrive\Documents\NTU\Software Eng\Final Game\obj\Debug\Final Game.pdb
+C:\Users\adrit\OneDrive\Documents\NTU\Software Eng\Assignment folder\Final Game\bin\Debug\Final Game.exe.config
+C:\Users\adrit\OneDrive\Documents\NTU\Software Eng\Assignment folder\Final Game\bin\Debug\Final Game.exe
+C:\Users\adrit\OneDrive\Documents\NTU\Software Eng\Assignment folder\Final Game\bin\Debug\Final Game.pdb
+C:\Users\adrit\OneDrive\Documents\NTU\Software Eng\Assignment folder\Final Game\obj\Debug\Final Game.csproj.AssemblyReference.cache
+C:\Users\adrit\OneDrive\Documents\NTU\Software Eng\Assignment folder\Final Game\obj\Debug\Final Game.csproj.CoreCompileInputs.cache
+C:\Users\adrit\OneDrive\Documents\NTU\Software Eng\Assignment folder\Final Game\obj\Debug\Final Game.exe
+C:\Users\adrit\OneDrive\Documents\NTU\Software Eng\Assignment folder\Final Game\obj\Debug\Final Game.pdb
