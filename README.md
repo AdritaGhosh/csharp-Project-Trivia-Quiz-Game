@@ -9,3 +9,5 @@ Answer Validation: Limits on both incorrect and invalid attempts.
 Score Management: Records and saves player scores with timestamps.
 <br>
 Randomization: Ensures questions are randomly selected without repetition.
+
+## How It Works
