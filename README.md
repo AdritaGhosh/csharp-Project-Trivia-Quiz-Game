@@ -11,33 +11,38 @@
 ## How It Works
 
 * **Player Registration**:
+  <br>
   Player is prompted to enter their name.
   <br>
   Personalized welcome message is displayed.
 
 * **Category Selection**:
-Player selects from available quiz categories.
-<br>
-Questions are loaded from respective files (SciQstn.txt, HistQstn.txt, MathQstn.txt).
+  <br>
+  Player selects from available quiz categories.
+  <br>
+  Questions are loaded from respective files (SciQstn.txt, HistQstn.txt, MathQstn.txt).
 
 * **Question Display and Answer Validation**:
-Each question is displayed with multiple-choice options.
-<br>
-Player inputs their answer.
-<br>
-Input validation checks for correct and invalid attempts.
-<br>
-Score is updated based on the correctness of the answers.
+  <br>
+  Each question is displayed with multiple-choice options.
+  <br>
+  Player inputs their answer.
+  <br>
+  Input validation checks for correct and invalid attempts.
+  <br>
+  Score is updated based on the correctness of the answers.
 
 * **Score Calculation and Display**:
-Final score is calculated and displayed.
-<br>
-Scores are saved to a file using the ScoreFile procedure.
+  <br>
+  Final score is calculated and displayed.
+  <br>
+  Scores are saved to a file using the ScoreFile procedure.
 
 * **Error Handling**:
-Try-catch blocks manage file I/O exceptions and input errors.
-<br>
-Detailed error messages help in debugging.
+  <br>
+  Try-catch blocks manage file I/O exceptions and input errors.
+  <br>
+  Detailed error messages help in debugging.
 
 ## Code Structure
 
