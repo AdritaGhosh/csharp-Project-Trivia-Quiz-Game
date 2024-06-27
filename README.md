@@ -1,4 +1,6 @@
-# Features 
+#Trivia-Quiz-Game
+
+## Features 
 
 **Multiple Quiz Categories**: Science, History, and Math.
 <br>
