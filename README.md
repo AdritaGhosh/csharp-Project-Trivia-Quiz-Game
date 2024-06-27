@@ -11,19 +11,16 @@
 ## How It Works
 
 * **Player Registration**:
-<br>
 Player is prompted to enter their name.
 <br>
 Personalized welcome message is displayed.
 
 * **Category Selection**:
-<br>
 Player selects from available quiz categories.
 <br>
 Questions are loaded from respective files (SciQstn.txt, HistQstn.txt, MathQstn.txt).
 
 * **Question Display and Answer Validation**:
-<br>
 Each question is displayed with multiple-choice options.
 <br>
 Player inputs their answer.
@@ -33,13 +30,11 @@ Input validation checks for correct and invalid attempts.
 Score is updated based on the correctness of the answers.
 
 * **Score Calculation and Display**:
-<br>
 Final score is calculated and displayed.
 <br>
 Scores are saved to a file using the ScoreFile procedure.
 
 * **Error Handling**:
-<br>
 Try-catch blocks manage file I/O exceptions and input errors.
 <br>
 Detailed error messages help in debugging.
