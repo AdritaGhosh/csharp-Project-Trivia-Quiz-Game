@@ -11,9 +11,9 @@
 ## How It Works
 
 * **Player Registration**:
-Player is prompted to enter their name.
-<br>
-Personalized welcome message is displayed.
+  Player is prompted to enter their name.
+  <br>
+  Personalized welcome message is displayed.
 
 * **Category Selection**:
 Player selects from available quiz categories.
